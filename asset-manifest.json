@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0bea23c4.chunk.css",
+    "main.js": "/static/js/main.e60e3295.chunk.js",
+    "main.js.map": "/static/js/main.e60e3295.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cfe701ed.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cfe701ed.js.map",
+    "static/css/2.b3cd413d.chunk.css": "/static/css/2.b3cd413d.chunk.css",
+    "static/js/2.260a8d03.chunk.js": "/static/js/2.260a8d03.chunk.js",
+    "static/js/2.260a8d03.chunk.js.map": "/static/js/2.260a8d03.chunk.js.map",
+    "static/js/3.09f52f16.chunk.js": "/static/js/3.09f52f16.chunk.js",
+    "static/js/3.09f52f16.chunk.js.map": "/static/js/3.09f52f16.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.b3cd413d.chunk.css.map": "/static/css/2.b3cd413d.chunk.css.map",
+    "static/css/main.0bea23c4.chunk.css.map": "/static/css/main.0bea23c4.chunk.css.map",
+    "static/js/2.260a8d03.chunk.js.LICENSE.txt": "/static/js/2.260a8d03.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/dota2.09328bd7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfe701ed.js",
+    "static/css/2.b3cd413d.chunk.css",
+    "static/js/2.260a8d03.chunk.js",
+    "static/css/main.0bea23c4.chunk.css",
+    "static/js/main.e60e3295.chunk.js"
+  ]
+}
